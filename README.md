@@ -1,2 +1,12 @@
 # hello-world
-This is my first go at a repository on GitHub
+###########################
+
+Hello.
+
+I'm editing this original file and will be committing it.
+
+This is me testing this out so I will be able to spot the differences.
+
+Thanks,
+
+FD
